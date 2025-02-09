@@ -1,0 +1,14 @@
+c:\CPlustest\bin\Debug\net9.0\CPlustest.exe
+c:\CPlustest\bin\Debug\net9.0\CPlustest.deps.json
+c:\CPlustest\bin\Debug\net9.0\CPlustest.runtimeconfig.json
+c:\CPlustest\bin\Debug\net9.0\CPlustest.dll
+c:\CPlustest\bin\Debug\net9.0\CPlustest.pdb
+c:\CPlustest\obj\Debug\net9.0\CPlustest.GeneratedMSBuildEditorConfig.editorconfig
+c:\CPlustest\obj\Debug\net9.0\CPlustest.AssemblyInfoInputs.cache
+c:\CPlustest\obj\Debug\net9.0\CPlustest.AssemblyInfo.cs
+c:\CPlustest\obj\Debug\net9.0\CPlustest.csproj.CoreCompileInputs.cache
+c:\CPlustest\obj\Debug\net9.0\CPlustest.dll
+c:\CPlustest\obj\Debug\net9.0\refint\CPlustest.dll
+c:\CPlustest\obj\Debug\net9.0\CPlustest.pdb
+c:\CPlustest\obj\Debug\net9.0\CPlustest.genruntimeconfig.cache
+c:\CPlustest\obj\Debug\net9.0\ref\CPlustest.dll
