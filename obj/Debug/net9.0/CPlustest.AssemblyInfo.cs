@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CPlustest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f286240da3b9c330497681f2574edf9a8a12838")]
 [assembly: System.Reflection.AssemblyProductAttribute("CPlustest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CPlustest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
